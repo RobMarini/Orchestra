@@ -1,0 +1,12 @@
+C:\git\csharp\Orchestra\Orchestra\bin\Debug\net6.0\Orchestra.deps.json
+C:\git\csharp\Orchestra\Orchestra\bin\Debug\net6.0\Orchestra.dll
+C:\git\csharp\Orchestra\Orchestra\bin\Debug\net6.0\Orchestra.pdb
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.csproj.AssemblyReference.cache
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.AssemblyInfoInputs.cache
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.AssemblyInfo.cs
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.csproj.CoreCompileInputs.cache
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.dll
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\refint\Orchestra.dll
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\Orchestra.pdb
+C:\git\csharp\Orchestra\Orchestra\obj\Debug\net6.0\ref\Orchestra.dll
